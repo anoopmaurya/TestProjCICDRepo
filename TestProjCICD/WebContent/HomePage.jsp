@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Home.jsp</title>
+<title>HomePage.jsp</title>
 </head>
 <body>
 <h1>CI/ CD Test</h1>
